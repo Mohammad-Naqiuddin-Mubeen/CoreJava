@@ -7,7 +7,7 @@ public class LocalVariables {
 		System.out.println("Hello");
 		
 		int y;
-		System.out.println(y);
+//		System.out.println(y);
 //		y is not initialized error
 
 	}
